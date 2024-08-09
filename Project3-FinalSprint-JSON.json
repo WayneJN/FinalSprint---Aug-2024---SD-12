@@ -1,0 +1,10 @@
+
+[
+    {"id": 1, "name": "Cornea", "structure": "Curved, transparent", "function": "Focuses light", "location": "Front of the eye", "nerve control": "Trigeminal nerve"},
+    {"id": 2, "name": "Iris", "structure": "Colored, muscular", "function": "Controls pupil size", "location": "Behind the cornea", "nerve control": "Oculomotor nerve"},
+    {"id": 3, "name": "Pupil", "structure": "Circular opening", "function": "Regulates light entry", "location": "Center of the iris", "nerve control": "Oculomotor nerve"},
+    {"id": 4, "name": "Lens", "structure": "Biconvex, flexible", "function": "Focuses light onto retina", "location": "Behind the iris", "nerve control": "Ciliary nerves"},
+    {"id": 5, "name": "Retina", "structure": "Layered, neural tissue", "function": "Converts light to neural signals", "location": "Back of the eye", "nerve control": "Optic nerve"},
+    {"id": 6, "name": "Optic Nerve", "structure": "Bundle of nerve fibers", "function": "Transmits visual information", "location": "Back of the eye", "nerve control": "Optic nerve"},
+    {"id": 7, "name": "Macula", "structure": "Yellowish, central area", "function": "Central vision", "location": "Center of the retina", "nerve control": "Optic nerve"}
+]
